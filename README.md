@@ -22,15 +22,15 @@ GeneralComponent is a component that is used for each container
 
 
 ## How to use it
-Install all dependencies using npm install.
-Start application using npm start
+Install all dependencies using npm install.\
+Start application using npm start\
 Application will probably start on port 3000.
 
-Chatbot will ask the user to select a Stock Exchange
-User should Select (Click on) one option for Stock Exchange.
-User will be asked to select a stock.
-User should select (Click on) one option for Stock.
-You will receive the price for the selected Stock Exchange/Stock 
-Then user can choose from "Main menu" / "Go back".
-Option "Main menu" will take the user to select a new Stock Exchange
+Chatbot will ask the user to select a Stock Exchange\
+User should Select (Click on) one option for Stock Exchange.\
+User will be asked to select a stock.\
+User should select (Click on) one option for Stock.\
+You will receive the price for the selected Stock Exchange/Stock \
+Then user can choose from "Main menu" / "Go back".\
+Option "Main menu" will take the user to select a new Stock Exchange\
 Option "Go back" will take the user to select a new Stock
